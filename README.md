@@ -1,14 +1,14 @@
-# Nerfies
+# BodyMAP
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [BodyMAP website](https://bodymap.github.io).
 
-If you find Nerfies useful for your work please cite:
+If you find BodyMAP useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{#TODO
+  author    = {Tandon*, Abhishek and Goyal*, Anujraaj and Clever, Henry and Erickson, Zackory},
+  title     = {BodyMAP - Jointly Predicting Body Mesh and 3D Applied Pressure Map for People in Bed},
+  journal   = {CVPR},
+  year      = {2024},
 }
 ```
 
