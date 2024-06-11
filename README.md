@@ -4,11 +4,13 @@ This is the repository that contains source code for the [BodyMAP website](https
 
 If you find BodyMAP useful for your work please cite:
 ```
-@article{#TODO
-  author    = {Tandon, Abhishek and Goyal, Anujraaj and Clever, Henry and Erickson, Zackory},
-  title     = {BodyMAP - Jointly Predicting Body Mesh and 3D Applied Pressure Map for People in Bed},
-  journal   = {CVPR},
-  year      = {2024},
+@misc{tandon2024bodymap,
+      title={BodyMAP -- Jointly Predicting Body Mesh and 3D Applied Pressure Map for People in Bed}, 
+      author={Abhishek Tandon and Anujraaj Goyal and Henry M. Clever and Zackory Erickson},
+      year={2024},
+      eprint={2404.03183},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 
