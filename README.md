@@ -1,11 +1,11 @@
 # BodyMAP
 
-This is the repository that contains source code for the [BodyMAP website](https://bodymap.github.io).
+This is the repository that contains source code for the [BodyMAP website](https://bodymap3d.github.io/).
 
 If you find BodyMAP useful for your work please cite:
 ```
 @article{#TODO
-  author    = {Tandon*, Abhishek and Goyal*, Anujraaj and Clever, Henry and Erickson, Zackory},
+  author    = {Tandon, Abhishek and Goyal, Anujraaj and Clever, Henry and Erickson, Zackory},
   title     = {BodyMAP - Jointly Predicting Body Mesh and 3D Applied Pressure Map for People in Bed},
   journal   = {CVPR},
   year      = {2024},
